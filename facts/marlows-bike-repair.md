@@ -1,0 +1,11 @@
+# Marlow's Mobile Bike Repair (fact sheet)
+- Marlow's comes to you: a van, no shop. Service area: Fremantle, Cottesloe and Claremont only.
+- Open Tuesday to Saturday, 7:30 am to 3:00 pm. Closed Sunday, Monday and public holidays.
+- Call-out fee A$35, charged even if the bike cannot be fixed. It is taken off the bill if you go ahead with a repair.
+- Basic tune-up A$89 (brakes, gears, tyre pressure, chain oil). Full service A$189. Puncture repair A$25 per tyre.
+- Most repairs are done the same day. Parts that must be ordered take 3 to 5 working days; Marlow's will text you the date.
+- Payment: card or bank transfer. No cash and no payment plans.
+- Every repair has a 30 day guarantee on the work, not on parts that were already worn out.
+- Marlow's does not repair electric bikes' motors or batteries, and does not repair bikes with carbon frames.
+- Bookings: text 0400 555 019 or use the form at marlowsbikes.example/book. There is no email address.
+- Marlow's was started in 2021 by Dana Marlow, who is still the only mechanic.
